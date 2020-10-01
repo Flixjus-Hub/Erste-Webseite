@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+}
+
+h1{
+    font-size: 30px;
+    color: #e136db;
+}
+
+.big {
+    font-style: italic;
+}
+
+.small{
+    font-size: 50px;
+}
